@@ -14,6 +14,8 @@ By searching V3ng3_nc3 on Reddit, we found a [user](https://www.reddit.com/user/
 
 One of the posts said `Thank god nobody saw my secret | The Gotham city relies on me`. This made me suspicious. So, I went to https://web.archive.org/. I pasted his user URL and scanned it.
 
+![image](https://github.com/Apzyte-Gamer/hack-Envision-2024/assets/71684682/6a3abb66-e3ff-4e0d-ba64-5c348cff4165)
+
 The website actually had 4 archives, 2 on 17th and 2 on 18th Feb. I opened these archives and got these links:
 
 17th Feb ones:
@@ -29,6 +31,8 @@ https://web.archive.org/web/20240218101932/https://www.reddit.com/user/V3ng3_nc3
 https://web.archive.org/web/20240218101933/https://www.reddit.com/user/V3ng3_nc3/
 
 I opened all of these, and found [this one interesting](https://web.archive.org/web/20240217192652/https://www.reddit.com/user/V3ng3_nc3/).
+
+![image](https://github.com/Apzyte-Gamer/hack-Envision-2024/assets/71684682/d0a89c06-8acc-4ac7-a037-ccb12460face)
 
 This had a post that was deleted, and therefore upon clicking on the image, we got a cipher. txdunFWI{!_dp_Y3QJ3@QF3}.
 
