@@ -16,4 +16,7 @@ I looked in its code and found `login.hackenvision.ctf.teamquark.com` in cname.t
 
 I then looked in src/app.py to see how the portal works. Since TOPT's are not permanent, we have to generate one.
 
-To do that, I went to 
+To do that, I went to a [TOPT generator](https://totp.danhersam.com/) and put in the secret key from brick 1. I got the TOPT, logged in the portal and got the flag!
+
+`quarkCTF{05int-c4n_b3_d4nger0Us-#be_safe}`
+And yes, please follow this flag.
