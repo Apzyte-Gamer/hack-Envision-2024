@@ -228,6 +228,6 @@ Now running the exploit we get this :
 quarkCTF{i7s_34sY_70_r37uN_0n_f14g}
 ```
 
-And we got out flag! 
+And we got our flag! 
 
 `quarkCTF{i7s_34sY_70_r37uN_0n_f14g}`
