@@ -3,8 +3,7 @@ Pwn01
 
 Can you return my flag here?
 
-Artifact Files:
-[pwn01.zip](./pwn01.zip)
+### Files: [pwn01.zip](./pwn01.zip)
 
 ### Author: @mrerror0790 (community)
 
