@@ -6,6 +6,7 @@ Find the hidden hint and name the person who said it replace whitespaces with _ 
 Flag Format: `quarkCTF{nameoftheperson}`
 
 ### Author: 0xHarshSec
+
 ### File: [ossint_1.jpg](./ossint_1.jpg)
 
 Solution
