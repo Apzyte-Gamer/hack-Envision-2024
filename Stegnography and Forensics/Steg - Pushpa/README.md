@@ -22,7 +22,7 @@ In the zip file was this image:
 
 Using Aperi'Solve, I looked at the metadata of the file and found `xbhyrJAM{T41u-qOb7n4-U4o1-8HS4}` in the comment.
 
-Using CyberChef, I bruteforced it as a ROT 13 cipher which known phrase as `quarkCTF` and got the flag!
+Using CyberChef, I bruteforced it as a ROT 13 cipher with known phrase as `quarkCTF` and got the flag!
 
 ![image](https://github.com/Apzyte-Gamer/hack-Envision-2024/assets/71684682/0fda949b-7fd5-4fe1-8bb0-bdc99a8f98df)
 
