@@ -18,6 +18,8 @@ In there, I saw the first few bytes corrupted. In order to find the correct byte
 
 This was a .png file. I switched up the `%iii` to `%PNG` and exported it as [payatu.png](./payatu.png).
 
+![payatu.png](./payatu.png)
+
 Upon opening the png, we can see text on the top which is our flag!
 
 `quarkCTF{s@y_ch33s3}`
