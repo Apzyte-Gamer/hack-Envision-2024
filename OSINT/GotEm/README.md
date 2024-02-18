@@ -36,6 +36,8 @@ I opened all of these, and found [this one interesting](https://web.archive.org/
 
 This had a post that was deleted, and therefore upon clicking on the image, we got a cipher. txdunFWI{!_dp_Y3QJ3@QF3}.
 
+![image](https://github.com/Apzyte-Gamer/hack-Envision-2024/assets/71684682/7a30ea50-e078-4b72-a63a-090d0a99fb37)
+
 Going to CyberChef and bruteforcing it as a ROT 13 cipher with known key as `quarkCTF`, we got the flag!
 
 `quarkCTF{!_am_V3NG3@NC3}`
