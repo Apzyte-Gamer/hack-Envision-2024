@@ -29,7 +29,7 @@ Looking at qustions in forums to github documentations, I got a list of few comm
 
 After a hint got released, about using the github cli, I started reading documentation about git cli.
 
-The documentation said that you could see the repos, by using the cmd `gh auth login`. I tried this command but failed since the token didnt have the `repo` scope.
+The documentation said that you could see the repos, by using the cmd `gh auth login`. I tried this command but failed since the token didnt have the `repo` scope. I also tried `gh repo list` but it had to be verified by `gh auth login`....
 
 ![image](https://github.com/Apzyte-Gamer/hack-Envision-2024/assets/71684682/2ac3e740-d054-405e-bd45-2e4e6f547adb)
 
@@ -37,4 +37,6 @@ I then wasted 1-2 hours on trying random commands until I eventually came back t
 
 ![image](https://github.com/Apzyte-Gamer/hack-Envision-2024/assets/71684682/3eadbc13-fb0e-43ab-a0fb-4630c045e991)
 
-I then went to my environment variables and added a variable `GH_TOKEN: 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`
+I then went to my environment variables and added a variable `GH_TOKEN: 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`. I then reloaded cmd and ran `gh repo list` and got the flag!
+
+`quarkCTF_tokens-are-moreIMP-then-privREPO`
