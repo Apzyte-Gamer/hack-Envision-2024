@@ -34,7 +34,7 @@ def encrypt(message, key, iv):
     return b64encode(encrypted_message).decode()
 ```
 
-Note - To strxor, we have to have 2 equal length of strings. So thats why I used 
+Note - To strxor, we have to have 2 equal length of strings. So thats why I used "A"*31 which is 31 "A"'s or `AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
 
 Solution
 =
