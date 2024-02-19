@@ -4,8 +4,7 @@ Pwn02
 
 Nice one doing prev chall, now there's more than just a simple return.
 
-Netcat:
-nc pwn02.ctf.teamquark.com 65302
+### Netcat: nc pwn02.ctf.teamquark.com 65302
 
 ### Author: @mrerror0790 (community)
 
