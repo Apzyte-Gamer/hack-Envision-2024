@@ -23,7 +23,7 @@ I inspected the Login class, and found the username and password (in encrypted f
 
 I then went onto CyberChef with the string `AAE^pZXiwJof4<ZV}V~hQVXf` and tried to decrypt it.
 
-The `encryptPass` function used to encrypt the password had `reverse.charAt(i) +4` which made me sure to do `SUB` and `reverse` at first.
+The `encryptPass` function used to encrypt the password had `reverse.charAt(i) + 4` which made me sure to do `SUB` and `reverse` at first.
 
 And finally by these methods, I was able to get `m4Lw4rE_4nAly5ed` and putting this as the flag works!
 
