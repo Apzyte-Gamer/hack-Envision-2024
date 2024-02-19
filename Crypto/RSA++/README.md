@@ -5,4 +5,4 @@ I am using large bit modulus, but I wanted to see if a single prime number also 
 
 ### Author: Gourav Suram
 
-### Files: [chall.py](./chall.py)\n[cipher.txt](./cipher.txt)
+### Files: [chall.py](./chall.py) and [cipher.txt](./cipher.txt)
