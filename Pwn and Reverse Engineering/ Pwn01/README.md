@@ -3,8 +3,7 @@ Pwn01
 
 Can you return my flag here?
 
-Netact:
-nc pwn01.ctf.teamquark.com 65301
+### Netact: nc pwn01.ctf.teamquark.com 65301
 
 ### Files: [pwn01.zip](./pwn01.zip)
 
