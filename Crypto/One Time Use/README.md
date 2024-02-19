@@ -8,7 +8,7 @@ nc cryto.onetime.ctf.teamquark.com 65310
 
 ### Author: kavigihan (community)
 
-### Files: crypto-onetimeuse.zip
+### Files: [crypto-onetimeuse.zip](./crypto-onetimeuse.zip)
 
 Analyzing the application
 =
