@@ -36,10 +36,12 @@ def encrypt(message, key, iv):
 
 Note - To strxor, we have to have 2 equal length of strings. So thats why I used "A"*31 which is 31 "A"'s or `AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
 
+We are now ready to code!
+
 Solution
 =
 
-After a long time, I was finally able to make the script and here's how it looks:
+After analyzing everything carefully, I was finally able to make the script and here's how it looks:
 
 ```py
 import base64
