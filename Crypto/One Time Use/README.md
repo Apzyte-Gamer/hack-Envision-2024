@@ -47,13 +47,12 @@ After analyzing everything carefully, I was finally able to make the script and 
 import base64
 from Crypto.Util import strxor
 
-my_plain_text = b"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-my_enc_flag = base64.b64decode("97K3Po4AZJp8r6DgiYE4CJ3LnyXxQcmhdJcAu3enhg==")
+name = b"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+enc_name = base64.b64decode("97K3Po4AZJp8r6DgiYE4CJ3LnyXxQcmhdJcAu3enhg==")
 enc_flag = base64.b64decode("x4aXDaQCcZ1G3YDSse0hea7VuwXDWdeQBb8PjgObzQ==")
-key = strxor.strxor(my_enc_flag, my_plain_text)
+key = strxor.strxor(enc_name, name)
 
 print(strxor.strxor(enc_flag, key))
-
 ```
 
 After running the script, we get the flag!
