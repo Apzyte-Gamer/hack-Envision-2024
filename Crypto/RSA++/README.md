@@ -13,8 +13,8 @@ Solution
 I inspected the chall.py and found it to be a RSA challenge with 2 ciphers. These challenges usually take these steps to be solved:
 
 1) Calculate the difference between both the ciphers
-2) Calculate the GCD of the difference and `n`
-3) We then have to compute `p` and `q` using floor division
+2) Calculate the GCD of the difference and `n` which becomes p
+3) We then have to compute `q` using floor division
 4) We then have to compute the private exponent `d`
 5) We can then simply decrypt the 1st cipher to get the flag
 
@@ -32,11 +32,11 @@ e = 65537
 # Step 1: Calculate the difference between the two ciphers
 diff = c1 - c2
 
-# Step 2: Calculate GCD of `n` and the difference
-gcd_value = gcd(n, diff)
+# Step 2: Calculate GCD of `n` and the difference which becomes p
+gcd_val = gcd(n, diff)
 
-# Step 3: Compute `p` and `q` using floor division
-p = gcd_value
+# Step 3: Compute `q` using floor division
+p = gcd_val
 q = n // p
 
 # Step 4: Compute the private exponent `d`
