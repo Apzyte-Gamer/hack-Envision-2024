@@ -39,4 +39,6 @@ I then wasted 1-2 hours on trying random commands until I eventually came back t
 
 I then went to my environment variables and added a variable `GH_TOKEN: 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`. I then reloaded cmd and ran `gh repo list` and got the flag!
 
+![image](https://github.com/Apzyte-Gamer/hack-Envision-2024/assets/71684682/770f0383-5e8f-4323-bf83-b9bc82459396)
+
 `quarkCTF_tokens-are-moreIMP-then-privREPO`
