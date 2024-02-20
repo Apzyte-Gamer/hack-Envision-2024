@@ -60,7 +60,7 @@ We can see this is obduscated code, so we can prettify it and deobfuscate it. I 
 }());
 ```
 
-I then put the js functions in the console, got results, deobfuscated again, got results, until I reached the point where I got the username and password which were:
+I then put the js functions in the console, got results, ran function, got results, deobfuscated again, got results, until I reached the point where I got the username and password which were:
 
 `username: 3v1lqu4rk`
 `password: s3cur17y/p3n37r473d/by/3v1l/qu4rk`
