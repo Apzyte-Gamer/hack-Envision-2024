@@ -26,7 +26,7 @@ fn do_something(password: &str) -> String {
         }
         
         some_string
-    }
+}
 ```
 
 To obtain the password, we need to reverse this, so lets get to it!
